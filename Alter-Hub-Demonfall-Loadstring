@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AlterX404/Alter-Hub-Demonfall/main/Alter-Hub-Demonfall.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlterX404/Alter_Hub/main/Alter-hub%5BProtected%5D.lua"))()
+
